@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "Generate high-quality images from text descriptions using Google's Imagen model. Describe your vision and watch it come to life.",
+  "requestFramePermissions": []
+}
